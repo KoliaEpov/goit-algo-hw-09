@@ -1,5 +1,6 @@
 import timeit
 
+
 def find_coins_greedy(value):
     coins = [50, 25, 10, 5, 2, 1]
     result = {50: 0, 25: 0, 10: 0, 5: 0, 2: 0, 1: 0}
